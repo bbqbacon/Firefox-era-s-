@@ -9,5 +9,7 @@ if you want the firefox 4-9 you need https://github.com/DiegoSainzPardoLaso/Fire
 there is currently no Firefox theme for firefox 10-28 echelon dosen't work on modern firefox versions
 
 For the Firefox 29-56 you need https://github.com/QNetITQ/WaveFox by QNetITQ
+<img width="1938" height="1161" alt="image" src="https://github.com/user-attachments/assets/fdade261-9eba-431a-9801-fad5758544ee" />
+
 
 
