@@ -12,5 +12,7 @@ there is currently no Firefox theme for firefox 10-28 echelon dosen't work on mo
 For the Firefox 29-56 you need https://github.com/QNetITQ/WaveFox by QNetITQ
 <img width="1938" height="1161" alt="image" src="https://github.com/user-attachments/assets/fdade261-9eba-431a-9801-fad5758544ee" />
 
+For the Firefox 57-88 you need https://github.com/zapSNH/zapsCoolPhotonTheme by zapSNH <img width="1847" height="1187" alt="image" src="https://github.com/user-attachments/assets/df0531bc-7fce-4b23-a0b5-6397a400768f" />
+
 
 
