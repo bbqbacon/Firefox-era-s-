@@ -4,7 +4,8 @@ For firefox 3 you need https://github.com/OmegaAOL/Firefox-3-Theme-NEW by OmegaA
 # Firefox-era-s-
 if you want the firefox 4-9 you need https://github.com/DiegoSainzPardoLaso/Firefox-Classic-Theme-155-158 by Diego Sainz-Pardo Laso 
 
-<img width="2087" height="1241" alt="image" src="https://github.com/user-attachments/assets/9ff50d6a-8482-4f90-bbe2-a8df6804ba71" />
+<img width="1811" height="1122" alt="Screenshot 2026-10-22 173557" src="https://github.com/user-attachments/assets/ffb7cccc-1a6f-49d3-aeaf-3882373d8a58" />
+ src="https://github.com/user-attachments/assets/9ff50d6a-8482-4f90-bbe2-a8df6804ba71" />
 
 there is currently no Firefox theme for firefox 10-28 echelon dosen't work on modern firefox versions
 
