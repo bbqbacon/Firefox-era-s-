@@ -18,6 +18,8 @@ For the Firefox 57-88 you need https://github.com/zapSNH/zapsCoolPhotonTheme by 
 Firefox 89-157 you need https://github.com/black7375/Firefox-UI-Fix/releases/download/v8.7.6/Lepton.zip by zapSNH
 <img width="2001" height="1168" alt="image" src="https://github.com/user-attachments/assets/9016865f-8a47-4c67-a126-7c5779fe7cc4" />
 for the New Nova theme (2026) you need to go to "about:config" and and apply browser.nova.enabled
+<img width="1891" height="1205" alt="image" src="https://github.com/user-attachments/assets/3293e1c5-bc9a-46a0-97dc-4c5781737649" />
+
 
 
 
