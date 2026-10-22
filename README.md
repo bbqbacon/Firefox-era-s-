@@ -20,6 +20,7 @@ Firefox 89-157 you need https://github.com/black7375/Firefox-UI-Fix/releases/dow
 for the New Nova theme (2026) you need to go to "about:config" and and apply browser.nova.enabled
 <img width="1891" height="1205" alt="image" src="https://github.com/user-attachments/assets/3293e1c5-bc9a-46a0-97dc-4c5781737649" />
 
+These UserChrome themes aren't my work respect to the developers who put hours into these themes
 
 
 
