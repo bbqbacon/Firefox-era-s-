@@ -15,5 +15,6 @@ For the Firefox 29-56 you need https://github.com/QNetITQ/WaveFox by QNetITQ
 
 For the Firefox 57-88 you need https://github.com/zapSNH/zapsCoolPhotonTheme by zapSNH <img width="1847" height="1187" alt="image" src="https://github.com/user-attachments/assets/df0531bc-7fce-4b23-a0b5-6397a400768f" />
 
+Firefox 89-157 
 
 
