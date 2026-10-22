@@ -22,7 +22,9 @@ for the New Nova theme (2026) you need to go to "about:config" and and apply bro
 
 These UserChrome themes aren't my work respect to the developers who put hours into these themes
 
-if you want to replace the new firefox icon do this (zap's Cool Photon Theme does it already) type this into your "UserContent this
+if you want to replace the new firefox icon do this (zap's Cool Photon Theme does it already) type this into your "UserContent" this
+
+
 @-moz-document url(about:newtab), url(about:home) { 
 /* Changes the logo on the about:home screen */
   .logo {background-image: url("FILENAME.png") !important;
